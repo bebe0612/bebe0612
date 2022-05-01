@@ -39,6 +39,9 @@ Emails:
 
 </br>
 </br>
+
+[![Whale](https://github-readme-stats.vercel.app/api/pin/?username=bebe0612&repo=whale)](https://github.com/bebe0612/whale)
+
 <div>
   <a href="https://github.com/bebe0612">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebe0612&count_private=true&theme=cobalt&show_icons=true"/>
