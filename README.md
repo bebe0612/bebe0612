@@ -2,23 +2,29 @@
 
 ### Hi, there !
 
-I'm a sofeware engineer at Blueant, today working as a flutter app developer.
+Hi, My name is james and I'm living in Seoul as a software engineer. 
+Now, I'm leading a mobile platform part at work and very interested in project management and agile develement.
+
+
+Here is my tech blog : https://bebesoft.tistory.com/
+And this is my LinkedIn : https://www.linkedin.com/in/sangwon-lee-010b00214/
+
+
+If you want to communicate with me, plz feel free to contact me through the above channels :)
 
 ### TECH STACK
 
-Dart & Flutter, Swift & iOS, Javascript & nodeJs
+Dart & Flutter, Swift & iOS, Java & Spring
 
 ### TOOL
 
-Jira, Notion, Intellij, AppCode
+Jira, Notion, Intellij, Figma
 
 ### CONTACT
 
 💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 
 - leebebe0612@gmail.com (private)
-- james.lee@blueant.kr (office)
-
 
 ### REPOSITORY Now I'm Working...
 
