@@ -1,5 +1,3 @@
-Flutter 2019 ~ Today.
-
 ### Interested in 👀
 
 Coding using `Dart`, Cotributing `Flutter`
